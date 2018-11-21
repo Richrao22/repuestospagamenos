@@ -1,0 +1,117 @@
+<!-- ***************************************************************************************
+    Author     : Richard Orfao 
+    Course     :  CGS 4854-U01 (82024) Websiteconmgmt Class Lecture MoWe    5:00PM  -  6:15PM @ECS 136
+    URL        : ocelot.aul.fiu.edu/~rorfa001
+    Professor  : Michael Robinson 
+    Program #  : Assignment Purpose/Description 
+                 { To work with tables, fonts, colors and images } 
+
+    Due Date   : 09/05/2018 
+    Certification: 
+    I hereby certify that this work is my own and none of it is the work of any other person. 
+
+    ..........{ Richard Orfao }..........
+
+  **************************************************************************************** -->
+
+<html>
+
+  <!-- Head and Title goes here -->
+  <head align="center" >
+
+    <title>Orfao Richard Page1</title>
+
+  <!-- I have the FIU website educational comments and Table with menu-->
+  </head>
+
+    <body link="blue" vlink="blue" alink="red" bgcolor="#E8DAB8">
+
+    <!-- Table For Top Part FIU EDUCATIONAL -->
+    <table width="100%">
+
+      <tr>
+
+        <td align="center">
+          <font size="5" color="#FF1A0A" face="Helvetica"> <b> ~~~~ This is an educational website ~~~~ </b> </font>
+          <br>
+          <font size="5" color="#0736EE" face="Helvetica"> <b> <a href="https://www.cis.fiu.edu/">Florida International University</a> </b> </font><br>
+        </td>
+
+      </tr>
+
+    </table>
+
+    <font>Orfao Richard Page 1</font>
+
+    <hr>
+    
+    <!-- Table For MENU -->
+    <table width="30%" align="center" bordercolor="#0F1862">
+
+      <tr width="100%">
+
+        <td align="center">
+          <a href="page1.html">Page 1</a>&nbsp; &nbsp; &nbsp;
+        </td>
+
+        <td align="center">
+          <a href="page2.html">Page 2</a>&nbsp; &nbsp; &nbsp;
+        </td>
+          
+        <td align="center">
+          <a href="page3.html">Page 3</a>&nbsp; &nbsp; &nbsp;
+        </td>
+          
+        <td align="center">
+          <a href="page4.html">Page 4</a>&nbsp; &nbsp; &nbsp;
+        </td>
+
+        <td align="center">
+          <a href="http://ocelot.aul.fiu.edu/~rorfa001/index.php">Home</a>
+        </td>
+
+      </tr>
+
+    </table>
+
+    <hr>
+
+
+    <!-- Table For The images and some comments -->
+    <table bgcolor="#EFDCDF" bordercolor="07EE54" cellpadding="2" cellspacing="12" width="70%" border="5">
+
+      <!-- First Row, first column MOOG -->
+      <tr>
+        <td align="center">
+          <font face="Avenir" size="1" color="AB9A35"><b>Here is a link to go to one of the best sellers of Suspension for vehicles.</b></font>
+          <a href="https://www.moog-suspension-parts.com/">
+          <br>
+          <img src="../images/moog.png"  alt="Moog wesite" width="400" height="71"/>
+          </a>
+        </td>
+
+
+        <!-- First row, second column SKF -->
+        <td align="center">
+          <font face="Futura" size="2" color="#8BAA69"><b>Here is a link to go to one of the best sellers of Bearings for vehicles.</b> </font>
+          <br>
+          <a href="http://www.skf.com/us/index.html">
+          <img src="../images/skf.png"  alt="SKF website" width="250" height="70"/>
+        </td>
+      </tr>
+
+    </table>
+    
+    <hr>
+
+    <!-- Here are the three lines of comments -->
+    <p align="center">
+      <font size="3" face="Arial" color="#E07C7C"> <b> Moog is one of the top suppliers of automotive suspension and steering components.</b> </font>
+      <br>
+      <font size="4" face="Helvatica" color="#E5A56F"> <b> Moog offers OEM replacement parts like tie rod ends, Moog ball joints, pitman arms, Moog idler </b> </font>
+      <br>
+      <font size="5" face="Times New Roman" color="#C3B24B"> <b> arms, control arms, coil springs, end links and more.</b> </font>
+      <br>
+    </p>
+  </body>
+</html>

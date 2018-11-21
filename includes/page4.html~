@@ -1,0 +1,154 @@
+<!-- ***************************************************************************************
+    Author     : Richard Orfao 
+    Course     :  CGS 4854-U01 (82024) Websiteconmgmt Class Lecture MoWe    5:00PM  -  6:15PM @ECS 136
+    URL        : ocelot.aul.fiu.edu/~rorfa001
+    Professor  : Michael Robinson 
+    Program #  : Assignment Purpose/Description 
+                 { To work with tables, fonts, colors and images } 
+
+    Due Date   : 09/05/2018 
+    Certification: 
+    I hereby certify that this work is my own and none of it is the work of any other person. 
+
+    ..........{ Richard Orfao }..........
+
+  **************************************************************************************** -->
+
+<html>
+
+  <!-- Head and Title goes here -->
+  <head align="center">
+
+    <title>Orfao Richard Page4</title>
+
+  </head>
+
+  <!-- I have the FIU website educational comments and Table with menu-->
+  <body link="blue" vlink="blue" alink="red">
+
+    <!-- Table For Top Part FIU EDUCATIONAL -->
+    <table width="100%">
+
+      <tr>
+
+        <td align="center">
+          <font size="5" color="#FF1A0A" face="Helvetica"> <b> ~~~~ This is an educational website ~~~~ </b> </font>
+          <br>
+          <font size="5" color="#0736EE" face="Helvetica"> <b> <a href="https://www.cis.fiu.edu/">Florida International University</a> </b> </font><br>
+        </td>
+
+      </tr>
+
+    </table>
+
+    <font>Orfao Richard Page 4</font>
+
+    <hr>
+
+    <!-- Table For MENU -->
+    <table width="30%" align="center" bordercolor="#0F1862">
+
+      <tr width="100%">
+
+        <td align="center">
+          <a href="page1.html">Page 1</a>&nbsp; &nbsp; &nbsp;
+        </td>
+
+        <td align="center">
+          <a href="page2.html">Page 2</a>&nbsp; &nbsp; &nbsp;
+        </td>
+          
+        <td align="center">
+          <a href="page3.html">Page 3</a>&nbsp; &nbsp; &nbsp;
+        </td>
+          
+        <td align="center">
+          <a href="page4.html">Page 4</a>&nbsp; &nbsp; &nbsp;
+        </td>
+
+        <td align="center">
+          <a href="../index.html">Home</a>
+        </td>
+
+      </tr>
+
+    </table>
+
+    <hr>
+
+    <!-- Table For The images and some comments -->
+    <table bgcolor="EDFAD8" bordercolor="#F51366" cellpadding="7" cellspacing="8" width="100%" border="15">
+
+      <!-- First Row, first column Tesla Model 3 -->
+      <tr>
+        <td align="center">
+          <font face="Georgia" size="11" color="#9074D2"><b>Here is a link to Check out the new Tesla Model 3.</b></font>
+          <a href="https://www.tesla.com/model3">
+          <br>
+          <img src="../images/tesla.png"  alt="Tesla wesite" width="300" height="175"/>
+          </a>
+        </td>
+      </tr>
+
+      <!-- Second Row, first column McLaren P1 -->
+      <tr>
+        <td align="center">
+          <font face="Comic Sans Ms" size="12" color="#4D3686"><b>Here is a link to check out the new Mclaren P1</b> </font>
+          <a href="http://cars.mclaren.com/ultimate-series/p1">
+          <br>
+          <img src="../images/mclaren.png"  alt="Mclaren website" width="300" height="175"/>
+        </td>
+
+      </tr>
+    </table>
+    
+    <hr>
+
+    <!-- Here are the three lines of comments inside of a table -->
+    <table width=100%>
+      <tr>
+        <td >
+          <p>
+            <font size="13" face="Arial Black" color="#534C64"> <b> 
+              Tesla MODEL 3
+              MSRP: From $49,000
+              MPGe: 136 city / 123 highway
+              Horsepower: 271 hp
+              </b> </font>
+          </p>
+          <br>
+        </td>
+      </tr>
+
+      <tr>
+        <td align="center">
+          <p>
+            <font size="14" face="Impact" color="#7D466E  "> <b> 
+              Dimensions: 185″ L x 73″ W x 56-57″ H
+              Engine: Electric
+              Configurations
+              Long Range
+              $49,000</b> </font>
+          </p>
+          <br>
+        </td>
+      </tr>
+
+      <tr>
+        <td align="Right">
+          <p>
+            <font size="15" face="Times" color="#FAA725"> <b> 
+              Long Range AWD
+              $53,000
+              Performance
+              $64,000</b> </font>
+          </p>
+          <br>
+        </td>
+      </tr>
+
+    </table>
+    
+  </body>
+
+</html>

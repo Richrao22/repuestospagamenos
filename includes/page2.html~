@@ -1,0 +1,138 @@
+<!-- ***************************************************************************************
+    Author     : Richard Orfao 
+    Course     :  CGS 4854-U01 (82024) Websiteconmgmt Class Lecture MoWe    5:00PM  -  6:15PM @ECS 136
+    URL        : ocelot.aul.fiu.edu/~rorfa001
+    Professor  : Michael Robinson 
+    Program #  : Assignment Purpose/Description 
+                 { To work with tables, fonts, colors and images } 
+
+    Due Date   : 09/05/2018 
+    Certification: 
+    I hereby certify that this work is my own and none of it is the work of any other person. 
+
+    ..........{ Richard Orfao }..........
+
+  **************************************************************************************** -->
+
+<html>
+
+  <!-- Head and Title goes here -->
+  <head align="center">
+
+    <title>Orfao Richard Page2</title>
+
+  </head>
+
+  <!-- I have the FIU website educational comments and Table with menu-->
+  <body link="blue" vlink="blue" alink="red" bgcolor="#F9E9FC">
+
+    <!-- Table For Top Part FIU EDUCATIONAL -->
+    <table width="100%">
+
+      <tr>
+
+        <td align="center">
+          <font size="5" color="#FF1A0A" face="Helvetica"> <b> ~~~~ This is an educational website ~~~~ </b> </font>
+          <br>
+          <font size="5" color="#0736EE" face="Helvetica"> <b> <a href="https://www.cis.fiu.edu/">Florida International University</a> </b> </font><br>
+        </td>
+
+      </tr>
+
+    </table>
+   
+    <font>Orfao Richard Page 2</font>
+
+    <hr>
+
+    <!-- Table For MENU -->
+    <table width="30%" align="center" bordercolor="#0F1862">
+
+      <tr width="100%">
+
+        <td align="center">
+          <a href="page1.html">Page 1</a>&nbsp; &nbsp; &nbsp;
+        </td>
+
+        <td align="center">
+          <a href="page2.html">Page 2</a>&nbsp; &nbsp; &nbsp;
+        </td>
+          
+        <td align="center">
+          <a href="page3.html">Page 3</a>&nbsp; &nbsp; &nbsp;
+        </td>
+          
+        <td align="center">
+          <a href="page4.html">Page 4</a>&nbsp; &nbsp; &nbsp;
+        </td>
+
+        <td align="center">
+          <a href="http://ocelot.aul.fiu.edu/~rorfa001/index.php">Home</a>
+        </td>
+
+      </tr>
+
+    </table>
+
+    <hr>
+
+    <!-- Table For The images and some comments -->
+    <table bgcolor="#5B5F84" bordercolor="#BACE76" cellpadding="8" cellspacing="8" width="80%" align="center" border="10">
+
+      <!-- First Row, first column Nissan -->
+      <tr>
+
+        <td>
+          <font face="Myriad" size="6" color="#9074D2"><b>Here is a link to go to NISSAN website.</b></font>
+          <a href="https://www.nissanusa.com/">
+          <br><br>
+          <img src="../images/nissan.png"  alt="Moog wesite" width="99" height="90"/>
+          </a>
+        </td>
+
+        <!-- First Row, second column Toyota -->
+        <td align="Right">
+          <font face="Trebuchet MS" size="7" color="#4D3686"><b>Here is a link to go to TOYOTA website</b> </font>
+          <a href="http://www.toyota.com">
+          <br>
+          <img src="../images/toyota.png"  alt="TOYOTA website" width="170" height="102"/>
+        </td>
+      </tr>
+
+    </table>
+    
+    <hr>
+
+    <!-- Here are the three lines of comments inside of a table -->
+    <table width=100%>
+      <tr> 
+        <td align="Right">
+          <p>
+            <font size="8" face="Rockwell" color="#534C64"> <b> Toyota Motor Corporation, usually shortened to Toyota,  </b> </font>
+          </p>
+          <br>
+        </td>
+      </tr>
+
+      <tr>
+        <td align="center">
+          <p>
+            <font size="9" face="Baskerville" color="#D0ABF9  "> <b> is a Japanese multinational automotive manufacturer </b> </font>
+          </p>
+          <br>
+        </td>
+      </tr>
+
+      <tr>
+        <td>
+          <p>
+            <font size="10" face="Verdana" color="#B361A7"> <b> headquartered in Toyota, Aichi, Japan. </b> </font>
+          </p>
+        </td>
+      </tr>
+
+    </table>
+    
+  </body>
+
+</html>
